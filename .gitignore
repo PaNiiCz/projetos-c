@@ -1,0 +1,13 @@
+# Arquivos compilados
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Executáveis dentro de bin/
+bin/
+
+# Editor
+.vscode/
+.idea/
